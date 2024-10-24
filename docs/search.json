@@ -2,9 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "quarto-website-guide",
+    "title": "My Professional Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Pronouns: Add Pronouns\nEducation: University of College, B.S. Data Science\nShort Bio: Add Bio about your background, interests, and expertise."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "My Professional Website",
+    "section": "",
+    "text": "Pronouns: Add Pronouns\nEducation: University of College, B.S. Data Science\nShort Bio: Add Bio about your background, interests, and expertise."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "My Professional Website",
+    "section": "Experience",
+    "text": "Experience"
   },
   {
     "objectID": "about.html",
